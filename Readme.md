@@ -28,6 +28,6 @@ To use the Book Inventory App:
 
 Or explore it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Book-inventory/)
 
 ## Master the art of targeted styling with CSS attribute selectors and organize your book world like a pro! 📖🎨🧩
