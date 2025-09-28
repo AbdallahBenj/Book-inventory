@@ -1,6 +1,6 @@
 # Book Inventory App - Certification Project
 
-🔗 [Live Demo](https://abdallahbenj.github.io/Book-inventory/)git
+🔗 [Live Demo](https://abdallahbenj.github.io/Book-inventory/)
 
 ## Overview
 
